@@ -7,8 +7,8 @@ Languages and Technologies Used
 
 HTML: Used for structuring the web pages and defining the content.
 
-
 CSS: Used for styling the web pages and enhancing the visual appearance.
+
 JavaScript: Used for adding interactivity and dynamic behavior to the website.
 
 
